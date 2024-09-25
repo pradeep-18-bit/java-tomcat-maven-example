@@ -134,12 +134,12 @@ under the License.
    <server>
       <id>maven-releases</id>
       <username>admin</username>
-      <password>admin@123</password>
+      <password>admin12345</password>
    </server>
    <server>
       <id>maven-snapshots</id>
       <username>admin</username>
-      <password>admin@123</password>
+      <password>admin12345</password>
    </server>
       
   </servers>
